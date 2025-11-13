@@ -40,7 +40,7 @@ This project was developed as part of an individual formative assignment to demo
 ---
 
 ## Deployment
-The website is deployed on **[GitHub Pages](https://deanharland.github.io/mental-health-awareness/)** (replace with your URL).  
+The website is deployed on **[GitHub Pages](https://deanharland.github.io/mental-health-awareness/)**.
 Deployment steps:
 1. Ensure your project files are committed to a GitHub repository.
 2. Go to **Settings → Pages** and select the branch containing `index.html`.
