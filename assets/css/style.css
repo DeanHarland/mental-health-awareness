@@ -62,7 +62,20 @@ footer {
 }
 
 
+/* Make resource button text stand out */
+.resource-btn {
+  font-weight: 600;
+  font-size: 1.1rem;
+  letter-spacing: 0.5px;
+  text-transform: none;
+  min-height: 60px; /* Adjust as needed */
 
+  
+  display: flex;            /* make the button a flex container */
+  align-items: center;      /* center text vertically */
+  justify-content: center;  /* center text horizontally */
+  text-align: center;       /* ensures multi-line text is centered */
+}
 
 
 
