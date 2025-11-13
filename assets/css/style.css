@@ -1,0 +1,65 @@
+/* Calming soft pastel gradient background and subtle UI tweaks */
+:root{
+  --pastel-pink: #fff4f7;
+  --pastel-blue: #f0fbff;
+  --pastel-mint: #f0fff6;
+  --panel-bg: rgba(255,255,255,0.86);
+  --text-dark: #0f1724;
+}
+
+html, body { height: 100%; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(135deg, var(--pastel-pink) 0%, var(--pastel-blue) 45%, var(--pastel-mint) 100%);
+  background-attachment: fixed;
+  color: var(--text-dark);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Let the site sections be transparent so gradient is visible */
+header#hero,
+section,
+footer {
+  background-color: transparent !important;
+}
+
+/* Translucent navbar with subtle blur for readability */
+.navbar {
+  background-color: rgba(255,255,255,0.66) !important;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+/* Cards and panels keep a soft white surface for contrast */
+.card {
+  background-color: var(--panel-bg);
+  border: none;
+  box-shadow: 0 6px 18px rgba(16,24,40,0.06);
+}
+
+/* Buttons tuned to the pastel palette */
+.btn-primary {
+  background-image: linear-gradient(90deg, #9bb4ff 0%, #c3f6e6 100%);
+  border: none;
+  color: #09203f;
+}
+.btn-outline-primary {
+  background-color: rgba(255,255,255,0.82);
+  border-color: rgba(15,23,42,0.08);
+  color: var(--text-dark);
+}
+
+/* Hero text contrast */
+#hero .display-4,
+#hero .lead {
+  color: var(--text-dark);
+  text-shadow: 0 1px 0 rgba(255,255,255,0.55);
+}
+
+/* Keep motion reduced if user prefers */
+@media (prefers-reduced-motion: reduce) {
+  body { background-attachment: scroll; }
+}
