@@ -53,7 +53,7 @@ Deployment steps:
 *(Replace these placeholders with your actual screenshots)*
 
 **Hero Section**  
-![Hero Section](assets/images/hero-readme.png)
+![Hero Section](assets/images/hero-readme.jpg)
 
 **Information Cards**  
 ![Information Cards](assets/images/information-cards.png)
