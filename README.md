@@ -53,16 +53,16 @@ Deployment steps:
 *(Replace these placeholders with your actual screenshots)*
 
 **Hero Section**  
-![Hero Section](screenshots/hero-section.png)
+![Hero Section](assets/images/hero-readme.png)
 
 **Information Cards**  
-![Information Cards](screenshots/info-cards.png)
+![Information Cards](assets/images/information-cards.png)
 
 **Resource Links**  
-![Resource Links](screenshots/resources.png)
+![Resource Links](assets/images/helpful-resources.png)
 
 **Positive Affirmations**  
-![Affirmations](screenshots/affirmations.png)
+![Affirmations](assets/images/positive-affirmations.png)
 
 ---
 
