@@ -79,6 +79,7 @@ Deployment steps:
 - **Debugging:** Assisted in identifying responsive issues and HTML/CSS syntax errors.  
 - **Performance & UX Optimization:** AI suggested efficient class usage and responsive design improvements to enhance accessibility and mobile experience.  
 - **Workflow Impact:** AI tools improved productivity, helping focus on content and UX while reducing repetitive coding tasks.
+- **Questions:** AI helped to generate answers to questions I had regrading problems in the project.
 
 ---
 
