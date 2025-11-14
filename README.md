@@ -57,7 +57,7 @@ Deployment steps:
 
 **Information Cards**  
 ![Information Cards](assets/images/information-cards.png)
-
+![Common Issues](assets/images/common-issues.png)
 **Resource Links**  
 ![Resource Links](assets/images/helpful-resources.png)
 
