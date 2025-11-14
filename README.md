@@ -91,3 +91,14 @@ Deployment steps:
 
 ## License
 This project is for educational purposes. Attribution is provided for any external assets used.
+
+---
+
+## Validation
+Validation tools used to show no issues.
+- **HTML**
+![HTML Validation](assets/images/html-review.png)
+- **CSS**
+![CSS Validation](assets/images/css-review.png)
+- **Lighthouse**
+![Lighthouse Validation](assets/images/lighthouse-review.png)
