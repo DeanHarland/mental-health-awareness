@@ -50,7 +50,6 @@ Deployment steps:
 ---
 
 ## Screenshots
-*(Replace these placeholders with your actual screenshots)*
 
 **Hero Section**  
 ![Hero Section](assets/images/hero-readme.jpg)
